@@ -1,2 +1,2 @@
 # git-conflict-challenge
-Gérer les conflits et les fusions
+Je modifie la première ligne
